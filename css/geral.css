@@ -1,0 +1,136 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color:white; 
+    font-family: Arial, sans-serif;
+}
+#corpo {
+    border: 3px solid #000000;
+    width: auto;
+    height: auto;
+}
+
+
+#topo  {
+    border: 3px solid #000000;
+    width: auto;
+    height: 100px;
+    background-color: #b2dfdb;
+}
+
+#Menu  {
+    border: 3px solid #000000;
+    width: auto;
+    height: 100px;
+    display: flex; 
+    flex-direction: row; 
+    justify-content: space-between
+    }
+#botao1 {
+    border: 3px solid #000000;
+    width: 500px;
+    height: 100px;
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+    text-align: center;
+    }
+#botao2 {
+    border: 3px solid #000000;
+    width: 500px;
+    height: 100px;
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+    text-align: center;
+    }   
+#botao3 {
+    border: 3px solid #000000;
+    width: 500px;
+    height: 100px;
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+    text-align: center;
+    }  
+#botao4 {
+    border: 3px solid #000000;
+    width: 500px;
+    height: 100px;
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+    text-align: center;
+    } 
+#botao5 {
+    border: 3px solid #000000;
+    width: 500px;
+    height: 100px;
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+    text-align: center;
+    }       
+    
+#conteudo {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+
+#centro {
+    border: 3px solid #000000;
+width: 1000px;
+height: 750px;
+display: flex;
+justify-content: center;
+align-items: center
+}
+
+
+#direita {
+    border: 3px solid #000000;
+width: 450px;
+height: 750px;
+overflow: hidden;
+}
+#direita img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+#esquerda {
+    border: 3px solid #000000;
+width: 450px;
+height: 750px;
+overflow: hidden;
+}
+#esquerda img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+}
+
+#rodape {
+border: 3px solid #000000;
+width: auto;
+height: 50px;
+display: flex;
+background-color: #b2dfdb;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
